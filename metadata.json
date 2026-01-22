@@ -1,0 +1,5 @@
+{
+  "name": "eternity",
+  "description": "A next-generation health risk mapping application that combines family history, personal biometrics, and environmental factors to predict health risks and suggest preventative actions using AI.",
+  "requestFramePermissions": []
+}
